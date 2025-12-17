@@ -104,21 +104,26 @@ Clear role definitions ensure accountability and effective collaboration:
 - **Developers**: Implement features, write tests and documentation, participate in design and code reviews, help estimate work, and identify technical risks
 - **Product Managers**: Define problem statements and success metrics, prioritize roadmap and backlog, validate solutions through research and metrics, and maximize customer value
 - **Project Managers**: Coordinate delivery activities, manage schedules and risks, facilitate meetings, maintain documentation, and ensure stakeholder alignment
+- **Scrum Masters**: Facilitate agile ceremonies, remove impediments, coach on agile practices, and foster continuous improvement
+- **UX Designers**: Conduct user research, create prototypes and designs, ensure accessibility, and validate solutions with users
+- **Business Analysts**: Gather requirements, document processes, bridge business and technical teams, and track benefits realization
+- **DevOps Engineers**: Build CI/CD pipelines, manage infrastructure, implement monitoring, and ensure secure, reliable deployments
 
-Each role has distinct responsibilities and communication patterns, working together to deliver customer value efficiently and reliably.
+Each role has distinct responsibilities and communication patterns, working together to deliver customer value efficiently and reliably. See the [Roles & Personas](https://github.com/mateuscarlos/skills-scale-institutional-knowledge-using-copilot-spaces/blob/2a71bd808c726a59a3c1e2a799b78a539b2a75e1/docs/octoacme-roles-and-personas.md) guide for detailed definitions, and use the [Roles & Responsibilities Quick-Check](https://github.com/mateuscarlos/skills-scale-institutional-knowledge-using-copilot-spaces/blob/2a71bd808c726a59a3c1e2a799b78a539b2a75e1/docs/octoacme-roles-checklist.md) to audit role clarity during planning.
 
 ## Documentation Index
 
 Our project management documentation is organized into focused guides covering each phase and aspect of the project lifecycle:
 
-1. **[Project Management Overview](octoacme-project-management-overview.md)** - High-level introduction to OctoAcme's project management approach, principles, roles, and lifecycle
-2. **[Project Initiation](octoacme-project-initiation.md)** - How to validate and authorize new projects, create one-pagers, and align stakeholders
-3. **[Project Planning](octoacme-project-planning.md)** - Detailed guidance on creating backlogs, estimating work, defining timelines, and managing dependencies
-4. **[Execution and Tracking](octoacme-execution-and-tracking.md)** - Day-to-day execution workflows, PR processes, quality standards, and progress tracking
-5. **[Risk Management & Communication](octoacme-risks-and-communication.md)** - How to identify, assess, mitigate, and communicate risks effectively
-6. **[Release & Deployment](octoacme-release-and-deployment.md)** - Standardized release processes, deployment checklists, and rollback procedures
-7. **[Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** - Capturing learnings and implementing actionable improvements
-8. **[Roles & Personas](octoacme-roles-and-personas.md)** - Detailed definitions of team roles and responsibilities
+1. **[Project Management Overview](https://github.com/mateuscarlos/skills-scale-institutional-knowledge-using-copilot-spaces/blob/2a71bd808c726a59a3c1e2a799b78a539b2a75e1/docs/octoacme-project-management-overview.md)** - High-level introduction to OctoAcme's project management approach, principles, roles, and lifecycle
+2. **[Project Initiation](https://github.com/mateuscarlos/skills-scale-institutional-knowledge-using-copilot-spaces/blob/2a71bd808c726a59a3c1e2a799b78a539b2a75e1/docs/octoacme-project-initiation.md)** - How to validate and authorize new projects, create one-pagers, and align stakeholders
+3. **[Project Planning](https://github.com/mateuscarlos/skills-scale-institutional-knowledge-using-copilot-spaces/blob/2a71bd808c726a59a3c1e2a799b78a539b2a75e1/docs/octoacme-project-planning.md)** - Detailed guidance on creating backlogs, estimating work, defining timelines, and managing dependencies
+4. **[Execution and Tracking](https://github.com/mateuscarlos/skills-scale-institutional-knowledge-using-copilot-spaces/blob/2a71bd808c726a59a3c1e2a799b78a539b2a75e1/docs/octoacme-execution-and-tracking.md)** - Day-to-day execution workflows, PR processes, quality standards, and progress tracking
+5. **[Risk Management & Communication](https://github.com/mateuscarlos/skills-scale-institutional-knowledge-using-copilot-spaces/blob/2a71bd808c726a59a3c1e2a799b78a539b2a75e1/docs/octoacme-risks-and-communication.md)** - How to identify, assess, mitigate, and communicate risks effectively
+6. **[Release & Deployment](https://github.com/mateuscarlos/skills-scale-institutional-knowledge-using-copilot-spaces/blob/2a71bd808c726a59a3c1e2a799b78a539b2a75e1/docs/octoacme-release-and-deployment.md)** - Standardized release processes, deployment checklists, and rollback procedures
+7. **[Retrospective & Continuous Improvement](https://github.com/mateuscarlos/skills-scale-institutional-knowledge-using-copilot-spaces/blob/2a71bd808c726a59a3c1e2a799b78a539b2a75e1/docs/octoacme-retrospective-and-continuous-improvement.md)** - Capturing learnings and implementing actionable improvements
+8. **[Roles & Personas](https://github.com/mateuscarlos/skills-scale-institutional-knowledge-using-copilot-spaces/blob/2a71bd808c726a59a3c1e2a799b78a539b2a75e1/docs/octoacme-roles-and-personas.md)** - Detailed definitions of team roles and responsibilities
+9. **[Roles & Responsibilities Quick-Check](https://github.com/mateuscarlos/skills-scale-institutional-knowledge-using-copilot-spaces/blob/2a71bd808c726a59a3c1e2a799b78a539b2a75e1/docs/octoacme-roles-checklist.md)** - Lightweight checklist and RACI matrix for auditing role clarity during planning and execution
 
 ## Contributing & Contact
 
@@ -148,4 +153,4 @@ To suggest improvements or updates to these docs:
 
 ---
 
-**Need help getting started?** Begin with the [Project Management Overview](octoacme-project-management-overview.md) for a high-level understanding, then dive into specific guides as needed for your current project phase.
+**Need help getting started?** Begin with the [Project Management Overview](https://github.com/mateuscarlos/skills-scale-institutional-knowledge-using-copilot-spaces/blob/2a71bd808c726a59a3c1e2a799b78a539b2a75e1/docs/octoacme-project-management-overview.md) for a high-level understanding, then dive into specific guides as needed for your current project phase.
